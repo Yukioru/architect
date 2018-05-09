@@ -111,3 +111,17 @@
 ├── package.json
 └── yarn.lock
 ```
+
+### Генерация структурного дерева
+
+Используя `yarn`:
+```
+yarn
+yarn run tree
+```
+
+Используя `npm`:
+```
+npm install
+npm run tree
+```
