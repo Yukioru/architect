@@ -1,0 +1,14 @@
+{
+  "name": "architect",
+  "version": "1.0.0",
+  "description": "Mockup architecture of project",
+  "main": "scripts/run",
+  "author": "Андрей Кондалов <i@yukio.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "tree-cli": "^0.4.12"
+  },
+  "scripts": {
+    "tree": "tree -l 10 --ignore 'node_modules/'"
+  }
+}
